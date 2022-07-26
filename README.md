@@ -1,2 +1,1 @@
-# Cloudlanr
-This is my startup website
+TinDog Starting Files
